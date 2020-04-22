@@ -2,7 +2,7 @@
 Use the HLNext function to blink search matches for a certain period of time
 with a certain frequency.
 
-Remapping the n, N and * commands to a call to the the HLNext function makes the
+Remapping the n, N and * commands to a call to the the HLNext function in your `.vimrc` makes the
 blinking feature transparent, for instance:
 
 ```
